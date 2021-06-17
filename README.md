@@ -16,14 +16,8 @@
     - 將修改加入緩存區: `git add .`
     - 確定修改並給予總結: `git commit -m "完成對接 7-11 超取服務"`
     - 同步本地與遠端分枝內容: `git push` or `git push --set-upstream origin xxx`
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00b29519-ae56-4816-9751-361b85c1abf6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00b29519-ae56-4816-9751-361b85c1abf6/Untitled.png)
-
 3. 遠端: Github.com
     - 開 Pull Request (PR) 將新的分枝合併到開發分枝
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/693b1c74-6010-4d2b-8894-9c2494ef5672/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/693b1c74-6010-4d2b-8894-9c2494ef5672/Untitled.png)
-
     - 同事查看給予回饋
     - 合併到開發分枝
 4. 本地: 新的分枝
