@@ -11,7 +11,7 @@ Switch to the development branch before developing new features: `git checkout d
 
 1. Local: Development branch
     - Synchronize the content of local and remote branches: `git pull` (similar to synchronizing cloud drives)
-    - Open a new branch: `git checkout -b <Docking 7-11 Super Fetching Service>` (to avoid developing multiple functions at the same time, this is only necessary for confusion)
+    - Open a new branch: `git checkout -b <Docking 7-11 Super Fetching Service>` (to avoid developing multiple functions at the same time and creates confusion)
 2. Local: new branch
     - Develop new features
     - View branch file modification status: `git status`
